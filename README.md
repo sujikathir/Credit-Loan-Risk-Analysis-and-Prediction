@@ -1,6 +1,6 @@
 # Loan Default Risk Analysis
 
-![](https://github.com/AkilsuryaS/Loan-Default-Risk-Analysis/blob/main/images/Cover%20pic.jpeg)
+![](https://github.com/sujikathir/Credit-Loan-Risk-Analysis-and-Prediction/blob/main/Cover%20pic.jpeg)
 
 ### Dataset description
 
